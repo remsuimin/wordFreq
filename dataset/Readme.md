@@ -1,0 +1,5 @@
+# review1.csv
+https://www.amazon.co.jp/ChillCamping%EF%BC%88%E3%83%81%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%94%E3%83%B3%E3%82%B0%EF%BC%89-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97-%E3%82%A2%E3%82%A6%E3%83%88%E3%83%89%E3%82%A2-%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A9%E3%83%83%E3%82%AF-%E3%82%AF%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89/dp/B097QQWY69/?_encoding=UTF8&pd_rd_w=uemEZ&content-id=amzn1.sym.79ec8dbb-a6ed-4b2c-b8a2-e2dc98848cba&pf_rd_p=79ec8dbb-a6ed-4b2c-b8a2-e2dc98848cba&pf_rd_r=CRB1BPBNBWF5WE3EZHRY&pd_rd_wg=c15eT&pd_rd_r=f598a3cf-a1a2-46a0-bfa8-d352ac20ec08&ref_=pd_gw_ci_mcx_mr_hp_atf_m
+
+# review2.csv
+https://www.amazon.co.jp/BUNDOK-%E3%83%90%E3%83%B3%E3%83%89%E3%83%83%E3%82%AF-BD-164-%E6%8A%98%E3%82%8A%E3%81%9F%E3%81%9F%E3%81%BF-%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88/dp/B084LDGTYY/?_encoding=UTF8&pd_rd_w=uemEZ&content-id=amzn1.sym.79ec8dbb-a6ed-4b2c-b8a2-e2dc98848cba&pf_rd_p=79ec8dbb-a6ed-4b2c-b8a2-e2dc98848cba&pf_rd_r=CRB1BPBNBWF5WE3EZHRY&pd_rd_wg=c15eT&pd_rd_r=f598a3cf-a1a2-46a0-bfa8-d352ac20ec08&ref_=pd_gw_ci_mcx_mr_hp_atf_m
